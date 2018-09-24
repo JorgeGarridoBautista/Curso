@@ -1,3 +1,7 @@
-Este es un archivo de texto para el curso de Git y LateX. El autor es Jorge Garrido Bautista.
+﻿Este es un archivo de texto para el curso de Git y LateX. El autor es Jorge Garrido Bautista.
 
 El archivo ha sido modificado localmente.
+
+Modificación del archivo para crear el conflicto.
+
+c1837b663a960cb889169cb3a57fab362803a13d
